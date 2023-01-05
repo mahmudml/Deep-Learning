@@ -1,1 +1,1 @@
-This is folder for Deep Learning.
+This is repository for Deep Learning.
