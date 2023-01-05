@@ -1,1 +1,1 @@
-This is repository for Deep Learning.
+This is the repository for Deep Learning.
